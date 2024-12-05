@@ -26,5 +26,7 @@ public class Exercicio18 {
 		mediaNum = (float) somaNum / contagemNum;
 			
 		System.out.printf("A média de todos os números múltiplos de 3 é %.1f", mediaNum);
+		
+		leia.close();
 	}
 }

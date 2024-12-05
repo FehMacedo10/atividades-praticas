@@ -55,7 +55,7 @@ public class Exercicio16 {
 
 				mulherFront++;
 
-			} else if (codGenero == 2 || codGenero == 5 && area == 3 && idade > 40) {
+			} else if ((codGenero == 2 || codGenero == 5) && area == 3 && idade > 40) {
 
 				homemMobile40++;
 
