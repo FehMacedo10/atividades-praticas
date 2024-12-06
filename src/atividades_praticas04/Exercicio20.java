@@ -35,6 +35,7 @@ public class Exercicio20 {
 
 			somaTotal += numeros[indice];
 			mediaTotal = (float) somaTotal / contagemNum;
+		
 		}
 
 		System.out.println(impares);
